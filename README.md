@@ -1,4 +1,4 @@
-jupyembed
+jupyembed [Super early alpha, NOT PRODUCTION READY, NOT TESTED, WORKS FOR VANILLA CSV FILES]
 ---------
 
 
@@ -11,8 +11,6 @@ Embed your data in jupyter notebooks.
 
 Usage
 --------
-
-Super early alpha, NOT PRODUCTION READY, NOT TESTED, WORKS FOR VANILLA CSV FILES
 
 ```
 $ pip install jupyembed
