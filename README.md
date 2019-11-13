@@ -15,12 +15,12 @@ Usage
 Super early alpha, NOT PRODUCTION READY, NOT TESTED, WORKS FOR VANILLA CSV FILES
 
 ```
-pip install jupyembed
+$ pip install jupyembed
 ```
 
 Embed (multiple) data files to your notebook from the terminal using
 ```
-jupyembed notebook.ipynb data_file.csv another_data_file.csv
+$ jupyembed notebook.ipynb data_file.csv another_data_file.csv
 ```
 
 read in data inside a notebook
