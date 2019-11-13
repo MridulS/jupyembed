@@ -39,7 +39,7 @@ jupyembed.embed.read_embeded_data('notebook.ipynb', 'data_file.csv', dataframe=F
 Features
 --------
 
-* TODO
+* Installations of requirements?
 
 Credits
 -------
